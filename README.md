@@ -51,6 +51,9 @@ An analytical AI Integration and MLOps professional specializing in pipeline aut
   * *Advanced ML Frameworks:* Supervised Learning, Unsupervised Learning, Reinforcement Learning, Deep Learning.
   * *Professional Integration:* Professional Interaction in AI, Work Function Initiation.
 * **Certificate in Applied Cybersecurity** – McGill University (Academic Standing: A-)
+  * *Network & System Defense: Access Control and Defence Methods, Communication and Network Security, Information System Security.
+  * *Architecture & Governance: Security Program Architecture and Engineering, Security Risk Management and Governance.
+  * *Incident Response & Offense: Security Incident Response and Recovery, Intrusion Testing and Security Assessment.
 * **Engineering Prerequisite Coursework** – Concordia University (Grade to date: A+)
 * **B.Sc. in Computer Science** – IHEC (MIFI Equivalence Confirmed)
 
