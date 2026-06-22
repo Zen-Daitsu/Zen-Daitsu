@@ -15,9 +15,9 @@ An analytical AI Integration and MLOps professional specializing in pipeline aut
 ### 🛠️ Technical Ecosystem
 
 * **Core Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow), Mojo, C++, SQL (SQL Server, MySQL, Oracle, BigQuery), Bash, PowerShell
-* **AI & Machine Learning Paradigms:** Supervised/Unsupervised Learning, Deep Learning, Reinforcement Learning, Computer Vision (YOLO), NLP Pipelines, Transfer Learning, AWS MLOps
+* **AI & Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Reinforcement Learning, Computer Vision (YOLO), NLP Pipelines, Transfer Learning, AWS MLOps
 * **Data Engineering & Architecture:** ETL Pipelines, Data Collection & Storage, Exploratory Data Analysis (EDA), Advanced Data Transformation & Manipulation
-* **Cloud Infrastructure & DevOps:** Microsoft Azure (Azure Infrastructure Automation), AWS Cloud Architecture, Azure Administration, Apache Airflow, Docker / Docker Compose, Git
+* **Cloud Infrastructure & MLOPS:** Microsoft Azure (Azure Infrastructure Automation), AWS Cloud Architecture, Azure Administration, Apache Airflow, Docker / Docker Compose, Git
 * **Enterprise Integration:** REST/SOAP APIs, EDI (X12/EDIFACT), ERP Data-Mapping (SAP, Dynamics 365)
 * **Infrastructure & Security:** Microsoft Sentinel & Defender, Linux/Windows Systems, Change Control (ITIL)
 
