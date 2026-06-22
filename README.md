@@ -35,6 +35,13 @@ A custom Extract, Transform, Load (ETL) pipeline engineered in Python to aggrega
 * **Tech Stack:** Python 3, SQLite3, REST APIs (`requests`), Native `csv`/`json` parsing.
 * **Engineering Focus:** Modular ETL design, dynamic path resolution, and strict environment separation between raw data, processed outputs, and source code.
 
+#### [airflow-data-ingestion](https://github.com/Zen-Daitsu/airflow-data-ingestion)
+> Modular Apache Airflow pipeline for automated daily data collection and workflow orchestration, featuring unit testing and CI/CD integration.
+
+* **Tech Stack:** Apache Airflow, Python, Pytest, GitHub Actions
+* **Status:** Production-ready
+* **Key Features:** Automated quality assurance, modular task decoupling, and standardized local deployment environments.
+
 ---
 
 ### 📈 Academic Pursuits & Validations
